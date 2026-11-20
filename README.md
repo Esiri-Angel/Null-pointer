@@ -6,7 +6,7 @@ Null Circuit is a neon arcade survival game. Dash through enemy fire to reflect 
 
 ## Play locally
 
-Download [`index.html`](index.html) and open it in a web browser. Select **Enter arena** to start. The game runs offline in a single HTML file with no installation or account required.
+Download [`index.html`](index.html) and open it in a web browser. Select **Enter arena** to start a scored run, or **Practice round** to try a short, unscored wave without losing lives. The game runs offline in a single HTML file with no installation or account required.
 
 | Action | Keyboard | Touch |
 | --- | --- | --- |
@@ -14,4 +14,4 @@ Download [`index.html`](index.html) and open it in a web browser. Select **Enter
 | Dash | Space | Tap |
 | Pause or resume | Esc | |
 
-Watch the dash meter before committing to a move. You start with three hearts and regain one at the start of each new wave, up to three. Defeating an elite boss changes the arena’s color palette.
+Watch the dash meter before committing to a move. You start with five lives and gain one as soon as you clear each wave, up to 99. Defeating an elite boss changes the arena’s color palette.
