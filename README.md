@@ -14,4 +14,4 @@ Download [`index.html`](index.html) and open it in a web browser. Select **Enter
 | Dash | Space | Tap |
 | Pause or resume | Esc | |
 
-Watch the dash meter before committing to a move. You start with three hearts and recover one after clearing every fourth wave, up to three.
+Watch the dash meter before committing to a move. You start with three hearts and regain one at the start of each new wave, up to three. Defeating an elite boss changes the arena’s color palette.
